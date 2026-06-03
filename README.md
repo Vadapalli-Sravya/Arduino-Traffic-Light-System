@@ -54,4 +54,4 @@ https://wokwi.com/projects/465788032579984385
 
 ## 📷 Project Preview
 
-![Traffic Light System](traffic-light-system.png)
+![Traffic Light System](traffic light system.png)
