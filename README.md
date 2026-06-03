@@ -45,3 +45,9 @@ Vadapalli Srivalli Sravya
 B.Tech ECE Student
 
 Interested in Embedded Systems, AIoT.
+
+## 🔗 Live Simulation
+
+View the project on Wokwi:
+
+https://wokwi.com/projects/465788032579984385
